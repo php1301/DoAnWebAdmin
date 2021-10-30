@@ -1,5 +1,5 @@
 const dev = {
-  API_ENDPOINT_URL: 'https://jsonplaceholder.typicode.com'
+  API_ENDPOINT_URL: 'http://127.0.0.1:8000/api'
 };
 
 const prod = {
